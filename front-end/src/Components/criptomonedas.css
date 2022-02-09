@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f5f5;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+input.form-control {
+    border-bottom: 1px solid #a5a4a4;
+    margin: 70px 0px 15px 0px;
+}
+
+button.btn {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+h3 {
+    margin: 70px 0px 0px 0px;
+    text-align-last: center;
+}
