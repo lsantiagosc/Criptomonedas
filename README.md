@@ -4,7 +4,7 @@ Aplicación para crear y mostrar criptomonedas.
 
 ## Para comenzar
 
-En el proyecto puedes ejecutar (despes de clonar):
+En el proyecto puedes ejecutar (después de clonar):
 
 ### `npm install`
 
